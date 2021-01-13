@@ -54,12 +54,12 @@ The repository contains the most detailed framework comparison that is out there
 
 | Name | Stars | Forks | Issues Open | Issues Closed  | Birth Year | Latest Update | Author |
 |---|---|---|---|---|----|----|----|
-| Gin | 24,181 | 2,835 | 129 |  919 |  2014 | 2019-02-04 | [@manucorporat](https://github.com/manucorporat) |
-| Beego | 18,812 | 3,884 | 545 | 1,806 | 2012  | 2019-02-04 | [@astaxie](https://github.com/astaxie) |
-| Iris | 13,565 | 1,406 | 19 |  621 | 2016 | 2019-01-16 | [@kataras](https://github.com/kataras) |
-| Echo | 12,861 | 1,141 | 14 |  779 |  2015 | 2019-02-07 | [@vishr](https://github.com/vishr) |
-| Revel | 10,723 | 1,302 | 58 |  806 | 2011 | 2018-10-30 | [@revel](https://github.com/revel) |
-| Buffalo | 3,935 | 320 | 51 |  599 |  2014 | 2019-01-31 | [@markbates](https://github.com/markbates) |
+| Gin | 44.8K | 5.1K | 292 |  1,241 |  2014 | 2021-01-13  | [@manucorporat](https://github.com/manucorporat) |
+| Beego | 25.7K | 5.1K | 85 | 2,801 | 2012  | 2021-01-13 | [@astaxie](https://github.com/astaxie) |
+| Iris | 19.9K | 2.2K | 19 |  687 | 2016 | 2021-01-10 | [@kataras](https://github.com/kataras) |
+| Echo | 18.9K | 1.7K | 43 |  1042 |  2015 | 2021-01-08 | [@vishr](https://github.com/vishr) |
+| Revel | 12.1K | 1.4K | 84 |  856 | 2011 | 2021-01-12 | [@revel](https://github.com/revel) |
+| Buffalo | 6K | 470 | 79 |  778 |  2014 | 2021-01-09 | [@markbates](https://github.com/markbates) |
 
 ## Learning Curve
 
